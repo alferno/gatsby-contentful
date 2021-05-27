@@ -10,7 +10,7 @@ const Index = () => {
       <h2>I'm Alferno, from Jaipur, Rajasthan.</h2>
       <p>
         Have a great time visiting{' '}
-        <span style={{ fontStyle: 'bold' }}>Gatsby</span> powered website.
+        <span style={{ fontStyle: 'italic' }}>Gatsby</span> powered website.
       </p>
     </Layout>
   )
