@@ -9,8 +9,8 @@ const Index = () => {
       <h1>Hello!</h1>
       <h2>I'm Alferno, from Jaipur, Rajasthan.</h2>
       <p>
-        Have a great time visiting <p style={{ fontStyle: 'bold' }}>Gatsby</p>{' '}
-        powered website.
+        Have a great time visiting{' '}
+        <span style={{ fontStyle: 'bold' }}>Gatsby</span> powered website.
       </p>
     </Layout>
   )
