@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'gatsby'
 import Layout from '../components/layout'
 import Head from '../components/head'
 
@@ -8,15 +7,10 @@ const Index = () => {
     <Layout>
       <Head title="Home" />
       <h1>Hello!</h1>
-      <h2>I'm XXX, xyz.</h2>
+      <h2>I'm Alferno, from Jaipur, Rajasthan.</h2>
       <p>
-        Check out my <Link to="/blog">Blog</Link>
-      </p>
-      <p>
-        need a developer? <Link to="/contact">Contact me</Link>{' '}
-      </p>
-      <p>
-        <Link to="/about">About Us</Link>
+        Have a great time visiting <p style={{ fontStyle: 'bold' }}>Gatsby</p>{' '}
+        powered website.
       </p>
     </Layout>
   )
